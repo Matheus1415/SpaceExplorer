@@ -1,12 +1,3 @@
-# React + Vite
-
-Este modelo fornece uma configuração mínima para fazer o React funcionar no Vite com HMR (Hot Module Replacement) e algumas regras ESLint.
-
-Atualmente, dois plugins oficiais estão disponíveis:
-
-- `@vitejs/plugin-react` usa Babel para atualização rápida.
-- `@vitejs/plugin-react-swc` usa SWC para atualização rápida.
-
 ## 🌌 Sobre o Projeto
 
 O **Space Explorer** é um site com temática espacial onde os usuários podem explorar fotos de galáxias, luas e planetas. A aplicação é uma single-page, apresentando uma única página estática. Os usuários podem filtrar as imagens por tags ou realizar uma pesquisa.
